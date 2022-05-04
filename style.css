@@ -1,0 +1,41 @@
+/*
+Little Secret Notes
+*/
+
+body {
+ background-image: url("https://media4.giphy.com/media/ysivQHYNuH7SacKFQa/giphy.gif?cid=790b7611657de755ab89a258a8e5ca22e9a0bf3b7ca750ee&rid=giphy.gif&ct=g");
+}
+
+h1 {
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-family: 'Press Start 2P', cursive;
+  padding: 10px;
+}
+
+#myDads {
+  text-align: center;
+}
+
+#theMan {
+  text-align: center;
+}
+
+p {
+  background-color: #E8D7FF;
+  padding: 6px;
+  padding-left: 30px;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: 'Kosugi Maru', sans-serif;
+}
+
+h2 {
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-family: 'Press Start 2P', cursive;
+  padding: 10px;
+}
